@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ho3ein  
+# 👋 Hi there
 ### Frontend Developer | React.js & Modern JavaScript
 
 Welcome to my GitHub!  
@@ -20,14 +20,15 @@ Currently working on real-world projects to strengthen my skills and deepen my u
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ### **Tools**
-- `Git` `GitHub`  
-- `Vite` `NPM`  
-- `VS Code`
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
