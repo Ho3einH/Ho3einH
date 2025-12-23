@@ -67,3 +67,9 @@ Experienced in **routing** and **async data handling** through practical project
 <p align="center">
   <img src="https://github-readme-trophy.vercel.app/?username=Ho3einH&theme=darkhub&no-frame=true" />
 </p>
+
+
+## ⏱️ WakaTime Stats
+
+[![WakaTime Daily Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ho3einH&range=daily&layout=compact&width=500)](https://wakatime.com/@Ho3einH)
+
