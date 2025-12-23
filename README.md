@@ -70,6 +70,10 @@ Experienced in **routing** and **async data handling** through practical project
 
 
 ## ⏱️ WakaTime Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ho3einH&range=daily&layout=compact&width=500)](https://wakatime.com/@Ho3einH" />
+</div>
 
-[![WakaTime Daily Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ho3einH&range=daily&layout=compact&width=500)](https://wakatime.com/@Ho3einH)
+
+
 
