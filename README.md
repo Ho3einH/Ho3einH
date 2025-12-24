@@ -68,10 +68,10 @@ Experienced in **routing** and **async data handling** through practical project
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einH&layout=compact&theme=github_dark" />
 </p>
 
-## WakaTime Status
+## 📊 WakaTime Status
 
-<p aligm="center">
-  <img src="https://wakatime.com/share/@Ho3einH/22da170a-de5d-4888-af4a-45e4e5f24286.svg" />
+<p align="center">
+  <img src="https://wakatime.com/share/@Ho3einH/342ca58b-bc8b-4dce-b818-0420a0d971a4.svg" />
 </p>
 
 
