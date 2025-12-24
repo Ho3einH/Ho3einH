@@ -57,22 +57,19 @@ Experienced in **routing** and **async data handling** through practical project
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einH&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ho3einH&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ho3einH&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-trophy.vercel.app/?username=Ho3einH&theme=darkhub&no-frame=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einH&layout=compact&theme=github_dark" />
+</p>
 
-## ⏱️ WakaTime Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ho3einH&range=daily&layout=compact&width=500)](https://wakatime.com/@Ho3einH" />
-</div>
+
+
 
 
 
