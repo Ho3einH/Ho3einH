@@ -27,13 +27,6 @@ Experienced in **routing** and **async data handling** through practical project
 
 ---
 
-## ⚙️ Tools
-- Git, npm, Vite, VSCode  
-- TailwindCSS, Styled Components  
-- React Router  
-
----
-
 ## 🛠️ Skills
 
 ### **Frontend**
