@@ -1,27 +1,28 @@
 <h1 align="center">Hi 👋, I'm Hossein</h1>
 
 <p align="center">
-  Frontend Developer | React.js & Modern JavaScript
+  Frontend Developer | React.js, Next.js, TypeScript & Modern JavaScript
 </p>
 
 <p align="center">
-  Building scalable and maintainable web apps with React.  
-  Focused on reusable components, predictable state flow, and clean UI.
+  Building scalable and maintainable web apps with React and Next.js.  
+  Focused on reusable components, predictable state flow, type safety, and clean UI.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Frontend Developer specializing in **React.js** and modern **JavaScript**.  
-I build **scalable, maintainable, and user-friendly** applications with **modular components**, **clean UI/UX**, and **predictable state management**.  
-Experienced in **routing** and **async data handling** through practical project work.
+Frontend Developer specializing in **React.js**, **Next.js**, **TypeScript**, and modern **JavaScript**.  
+I build **scalable, maintainable, and user-friendly** applications with **modular components**, **clean UI/UX**, **type safety**, and **predictable state management**.  
+Experienced in **routing**, **server/client rendering**, and **async data handling** through practical project work.
 
 
 ---
 
 ## 🎯 Core Focus
 - **React & Component Architecture**: Reusable, modular components  
+- **Next.js & Routing**: App Router, file-based routing, and server/client rendering
 - **State & Async Handling**: React Query for data operations  
 - **UI & Responsiveness**: Consistent, user-friendly interfaces  
 
